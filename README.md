@@ -1,4 +1,4 @@
-# esslessv-discordbot
+# template bot
 
 to run the put please run this command
 
